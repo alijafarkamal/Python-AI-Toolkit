@@ -58,8 +58,8 @@ We welcome contributions! Feel free to fork this repo, add your own Python-based
 This project is licensed under the **MIT License** - Feel free to use and modify it.
 
 ## 🎯 Let's Connect!
-🔗 **GitHub**: [Ali Jafar Kamal](https://github.com/alijafarkamal)  
-📧 **Email**: ali.jafar.kamal@example.com  
+🔗 **GitHub**: [Ali Jafar](https://github.com/alijafarkamal)  
+📧 **Email**: ali.jafar.fast@gmail.com  
 
 ---
 🔥 **Project Trojan** is not just a repository; it's a **treasure trove** for AI & Python enthusiasts! Keep innovating. 💡
